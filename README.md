@@ -4,7 +4,7 @@ Aim:To design and deliver End-to -End Business intelligence solution (Dashboard)
 
 Skills : Connecting and Shaping Data with Power-BI Desktop, Creating Table Relationships and Data models, Analysing Data with DAX Expressions ,Visualizing Data with Power-BI reports.
 
-#POWER-BI ANALYSIS ON ADVENTURE WORKS DATASET
+## POWER-BI ANALYSIS ON ADVENTURE WORKS DATASET
 
 ![1 ](https://user-images.githubusercontent.com/34785563/141781615-7ba3b8e7-157c-468f-b752-81f6ba153d59.png)
 ![1 ](https://user-images.githubusercontent.com/34785563/141781627-aa006e71-e28b-4b83-ad7a-55e9db084f62.png)
